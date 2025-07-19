@@ -8,3 +8,7 @@ The objective is to gain insights into a bank's lending activities and portfolio
 - Toatl Loan Applications: Calculate the total number of loan applications received during a specific period. It is essential to monitor the month to date loan applications and month over month appliocations.
 - Total Funded Amount: Understanding the total amount of funds distributed as loans is important. Need to analyse month to date and month over month funded amount.
 - Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the banks cash flow and loan repayment.Analyse the month to date and month over month total amount received.
+- Average interest rate: Calculating the average interest rate across all loans, month to date, and monitoring the month over month variations in interest rates will provide insights into our lendig portfolios
+  overall cost.
+- Average debt to income ratio: Evaluating the average DTI for borrowers helps to guage their financial health. Compute the DTI for all loans, month to date and track month over month fluctuations.
+  
