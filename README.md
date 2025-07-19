@@ -17,5 +17,7 @@ The objective is to gain insights into a bank's lending activities and portfolio
      driven decissions and assess the health of loan portfolio.
   # SQL Oueries
    SQL queries can be used to shape data before it's loaded into Power BI. Connecting to a SQL database in Power BI allows easily to retrieve and analyze data directly from SQL database, enabling to create interactive visualizations and reports based on SQL data. Import the data which is financial_loan.csv file and execute the queries required.
+  # SQL Queries Word Document
+  <a  href="https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking(SQL%20Queries).docx"> Sql</a>
   
   
