@@ -11,4 +11,8 @@ The objective is to gain insights into a bank's lending activities and portfolio
 - Average interest rate: Calculating the average interest rate across all loans, month to date, and monitoring the month over month variations in interest rates will provide insights into our lendig portfolios
   overall cost.
 - Average debt to income ratio: Evaluating the average DTI for borrowers helps to guage their financial health. Compute the DTI for all loans, month to date and track month over month fluctuations.
+  # Loan Status Grid View
+     In ordet to gain a comprehensive overview of lending operations and monitor the performance of loans grid view report is created by categorising loan status. By providing insights into metrics such as
+     Total loan applications,Total funded amount, Total amount received, month to date funded amount, amount received, Average interest rate and Average debt to income ratio. This grid view helps to make data
+     driven decissions and assess the health of loan portfolio.  
   
