@@ -15,9 +15,9 @@ The objective is to gain insights into a bank's lending activities and portfolio
      In ordet to gain a comprehensive overview of lending operations and monitor the performance of loans grid view report is created by categorising loan status. By providing insights into metrics such as
      Total loan applications,Total funded amount, Total amount received, month to date funded amount, amount received, Average interest rate and Average debt to income ratio. This grid view helps to make data
      driven decissions and assess the health of loan portfolio.
-  # SQL Oueries
+  # SQL Queries
    SQL queries can be used to shape data before it's loaded into Power BI. Connecting to a SQL database in Power BI allows easily to retrieve and analyze data directly from SQL database, enabling to create interactive visualizations and reports based on SQL data. Import the data which is financial_loan.csv file and execute the queries required.
   # SQL Queries Word Document
-   <a  href="https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking(SQL%20Queries).docx"> Sql</a>
+   <a  href="https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking(SQL%20Queries).docx"> Sql Queries</a>
   
   
