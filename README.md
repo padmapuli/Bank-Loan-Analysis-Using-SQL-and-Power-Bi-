@@ -20,9 +20,10 @@ The objective is to gain insights into a bank's lending activities and portfolio
   # SQL Queries Word Document
    <a  href="https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking(SQL%20Queries).docx"> Sql Queries</a>
  # Power BI
-      Imported the data from Sql server and started building the dashboards. Three dashboards are built. First one helps to visualise the percentages of good
-      loan issued and bad loan issued. Loan status is also presented in the dashboard. Second one shows the visualisation graphs of total loan applications
-      in terms of month,state,term,employee length,purpose and home ownership. Third one shows the overall status regarding banking loan analysis
+      Imported the data from Sql server and started building the dashboards. Three dashboards are built. First one helps to visualise the percentages of
+      good loan issued and bad loan issued. Loan status is also presented in the dashboard. Second one shows the visualisation graphs of total loan
+      applications in terms of month,state,term,employee length,purpose and home ownership. Third one shows the overall status regarding banking loan
+      analysis.
    
   
   
