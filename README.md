@@ -40,6 +40,10 @@ The objective is to gain insights into a bank's lending activities and portfolio
    Total number of good loans are higher than the bad loans issued which gives good reputation to the bank and while considering loan status
    fully paid loan applications are higher than the charged off loan applications that is good for the bank.
 
+  # Dashboard View
+
+   <a href= "https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking%20Loan%20Power%20Bi%20Dashboard.pbix">Dashboard</a>
+
 
  
    
