@@ -24,6 +24,15 @@ The objective is to gain insights into a bank's lending activities and portfolio
    of good loan issued and bad loan issued. Loan status is also presented in the dashboard. Second one shows the visualisation graphs of total loan
    applications in terms of month,state,term,employee length,purpose and home ownership. Third one shows the overall status regarding banking loan
    analysis.
+
+ # Dashboard Images
+ <img width="1343" height="742" alt="Dasboard Image Summary" src="https://github.com/user-attachments/assets/ed69c804-09ff-4c1e-a058-6d3c47380119" />
+ <img width="1318" height="738" alt="Dasboard Image Overview" src="https://github.com/user-attachments/assets/776a7f4e-5789-4429-a005-d21f01754474" />
+ <img width="1313" height="747" alt="Dashboard Image Details" src="https://github.com/user-attachments/assets/d9415ddd-21c4-477b-b10c-e07c6696997a" />
+
+
+
+ 
    
   
   
