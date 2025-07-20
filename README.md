@@ -43,6 +43,12 @@ The objective is to gain insights into a bank's lending activities and portfolio
   # Dashboard View
 
    <a href= "https://github.com/padmapuli/Bank-Loan-Analysis-Using-SQL-and-Power-Bi-/blob/main/Banking%20Loan%20Power%20Bi%20Dashboard.pbix">Dashboard</a>
+   
+  # Conclusion
+   The project demonstrates strong financial projections, with a good return on investment.The borrower's strong financial standing and proven management
+   team further support the loan's viability. By examining various aspects such as loan quality, status, purpose, and borrower characteristics, the report
+   provides valuable insights for managing and optimizing the bank’s lending operations.  The project is expected to create value for both the borrower
+   and bank aligning with the bank'sstrategic objectives.
 
 
  
